@@ -17,3 +17,7 @@ Minecraft PE是依靠 Google 账号进行正版验证的，但登陆账号却是
 ### 教程
 点击项目右侧发行版，如图。
 ![教程图片1](README_images/Screenshot_20240404_115513_edit_30388433869320.jpg)
+ 选择一个你想要下载的版本，下载安装包。
+![教程图片2](README_images/Screenshot_20240404_120548_edit_30652397866155.jpg)
+这里可能会出现安装包选择的问题，请根据图片对应选择。
+![教程图片3](README_images/Screenshot_20240404_121703_com.huawei.browser_edit_31283094232205.jpg)
