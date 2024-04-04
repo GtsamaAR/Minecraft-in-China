@@ -16,3 +16,4 @@ Minecraft PE是依靠 Google 账号进行正版验证的，但登陆账号却是
 安卓手机一部，Minecraft PE正版账号，微软Xbox账户。
 ### 教程
 点击项目右侧发行版，如图。
+![教程图片1](README_images/Screenshot_20240404_115513_edit_30388433869320.jpg)
