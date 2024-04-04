@@ -6,4 +6,4 @@
 <br>
 ## 为什么会出现这个问题？
 相信很多人都会有这个疑问，这里也就简单的解释一下。<br>
-Minecraft PE 是依靠微软账号对用户进行认证的，但用户购买Minecraft却是在Google Play上操作的，所以Minecraft就算绑定了Google账号，这个账号与用户的游戏内身份也一点都没关系，这个所谓的Google用户只是单纯的被用来检验正版。所以，每次打开游戏都必须保证自己能正常访问Google服务，让Google Play与服务器校验，验证成功之后才能启动。如果无法访问Google服务，则 Minecraft PE 就会直接报错，不能进入游戏。这对于国内的用户实在是非常不方便，
+Minecraft PE 是依靠微软账号进行登陆的，但用户购买 Minecraft 却是在Google Play上操作的，所以 Google 账号与用户的游戏内身份没有一点关系，仅仅只是被用来检验正版。所以，每次打开游戏都必须保证自己能正常访问Google服务，让Google Play与服务器校验，验证成功之后才能启动。如果无法访问Google服务，则 Minecraft PE 就会直接报错，不能进入游戏。这对于国内的用户实在是非常不方便，
