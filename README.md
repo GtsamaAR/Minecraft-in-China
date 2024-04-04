@@ -1,7 +1,7 @@
 # Minecraft-in-China
 ## 导语
 当你费尽千辛万苦在谷歌商店购买了 Minecraft PE 并安装到手机上准备游戏时，是否会遇见一个烦人的证书错误阻碍你的游戏。(T＿T)
-![烦人的证书错误](https://nboater.oss-cn-beijing.aliyuncs.com/BypassMCPE/license_error.webp) <br>
+![烦人的证书错误](README_images/license_error.webp) <br>
 幸运的是，这就是一个旨在解决这个问题的项目！
 <br>
 ## 为什么会出现这个问题？
